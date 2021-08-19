@@ -17,3 +17,7 @@ body {
 #header {
   color: chocolate;
 }
+
+#change-btn {
+  font-size: 32px;
+}
